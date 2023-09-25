@@ -3,6 +3,21 @@
 
 
 
+
+
+
+
+![328-246](https://github.com/bhratsharmaa/1mg-analysis-project/assets/132134997/d1c6f2ad-0f4a-40da-944e-7ae806939e76)
+
+
+
+
+
+
+
+
+
+
 ## Project Description:
 In the era of data-driven decision-making, harnessing valuable insights from web data can be a game-changer for businesses. This project exemplifies the power of data acquisition, analysis, and visualization by leveraging web scraping techniques. Using the Python programming language and the BeautifulSoup library, we embarked on a journey to extract essential information from the 1mg website, a prominent online pharmaceutical and healthcare platform. Our objective was to transform raw web data into actionable insights that could drive informed decisions and bolster profitability.
 
