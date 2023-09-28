@@ -21,6 +21,17 @@
 ## Project Description:
 In the era of data-driven decision-making, harnessing valuable insights from web data can be a game-changer for businesses. This project exemplifies the power of data acquisition, analysis, and visualization by leveraging web scraping techniques. Using the Python programming language and the BeautifulSoup library, we embarked on a journey to extract essential information from the 1mg website, a prominent online pharmaceutical and healthcare platform. Our objective was to transform raw web data into actionable insights that could drive informed decisions and bolster profitability.
 
+
+
+
+## 🛠 Tools used
+
+
+BeautifullSoup,Excel,Python
+
+
+
+
 ## Project Highlights:
 #### 1) Web Scraping and Data Extraction:
 We initiated the project by employing BeautifulSoup to scrape crucial data from the 1mg website. This encompassed extracting data from tables, ensuring data integrity, and structuring it for further analysis.
@@ -220,10 +231,7 @@ To harness the power of web scraping, data analysis, and data visualization tech
 
 
 
-## 🛠 Tools used
 
-
-BeautifullSoup,Excel,Python
 ## Suggestions:
 1) Capitalize on the popularity of SBL Pvt Ltd. by prominently featuring its products and offering special promotions to attract more customers and boost sales.
 
